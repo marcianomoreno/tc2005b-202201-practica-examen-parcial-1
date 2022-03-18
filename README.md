@@ -173,8 +173,8 @@ Implementa los siguientes requerimientos en `src/index.ts`:
     * Asigna al div la clase CSS `notPalindrome`
   * Añade un bloque de código donde se añada un EventListener al botón con id `button` con callback a la función `buttonSubmitClick`
 
-  # Ejecuta el proyecto
-  * Ejecuta el comando `npm run serve` para verificar tu implementación.
+# Ejecuta el proyecto
+* Ejecuta el comando `npm run serve` para verificar tu implementación.
 
 # Fin de examen
 
